@@ -7,3 +7,5 @@
 [Redis-x64-3.2.100.msi](apps/Redis-x64-3.2.100.msi)
 
 [HeidiSQL_10.3.0.5771_Setup.exe](apps/HeidiSQL_10.3.0.5771_Setup.exe.tar.gz)
+
+[Ops-lite-1129.zip](apps/Ops-lite-1129.zip)
